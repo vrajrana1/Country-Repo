@@ -9,6 +9,6 @@ if(isset($_POST['submit'])){
             echo "<span style='color:red'>Name is required </span>";
             
         }
-
+//ashwin
 }
 ?>
