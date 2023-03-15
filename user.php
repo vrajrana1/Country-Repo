@@ -22,6 +22,7 @@
         ]);
         // echo 'Data Inserted Succesfully'. PHP_EOL;
         // echo $insertId;
+//i have  just add other comment
         
   $us_er=new User();
   $us_er->displayMsg();
